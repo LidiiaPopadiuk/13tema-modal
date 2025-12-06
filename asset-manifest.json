@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/13tema-modal/static/css/main.f855e6bc.css",
+    "main.js": "/13tema-modal/static/js/main.f9d789b8.js",
+    "static/media/imdBack.gif": "/13tema-modal/static/media/imdBack.7f5bb382e45ddc779019.gif",
+    "static/media/snow.avif": "/13tema-modal/static/media/snow.8483f64cdfb3f60ba382.avif",
+    "index.html": "/13tema-modal/index.html",
+    "main.f855e6bc.css.map": "/13tema-modal/static/css/main.f855e6bc.css.map",
+    "main.f9d789b8.js.map": "/13tema-modal/static/js/main.f9d789b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f9d789b8.js"
+  ]
+}
